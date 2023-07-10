@@ -24,7 +24,7 @@
 
 ### Encantado de conocerte!  
 🙋‍♂️ ¿Quién soy?
-Soy un desarrollador web full stack apasionado por la tecnología y la música, con sólidos conocimientos en JavaScript, React, Vue, Nodejs, HTML, CSS, Express, MongoDB y otras tecnologías. Me destaco por mi capacidad para ofrecer soluciones creativas y eficientes a los distintos desafíos del desarrollo web. Soy responsable, resiliente, tenaz y altruista, y me encanta investigar y aprender todos los días. Estoy siempre dispuesto a aprender y enfrentar nuevos desafíos. 
+Soy un desarrollador web full stack apasionado por la tecnología y la música, con sólidos conocimientos en JavaScript, React, Vue, Nodejs, HTML, CSS, Express, MongoDB y otras tecnologías. Me destaco por mi capacidad para ofrecer soluciones creativas y eficientes a los distintos desafíos del desarrollo web. Soy responsable, resiliente, tenaz y altruista, y me encanta investigar y aprender todos los días.
 
 🚀 Experiencia
 Estudiar Desarrollo Web Full Stack en Henry fue un cambio trascendental en mi vida. Esta experiencia me permitió integrarme al mundo IT y aprender tecnologías de manera autodidacta y en el menor tiempo posible gracias a su estructura y plan de estudio. He creado proyectos exitosos como Countries y RickAndMorty, dos aplicaciones que cuentan con verificación en tiempo real y otras funciones que mejoran la experiencia del usuario.
