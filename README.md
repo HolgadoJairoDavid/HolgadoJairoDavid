@@ -23,19 +23,16 @@
 
 
 ### Encantado de conocerte!  
-🙋‍♂️ ¿Quién soy? 
-Soy Desarrollador Web Full Stack, con experiencia tanto en Back end como en Front End. Soy una persona en constante movimiento y crecimiento profesional y personal. Además de la programación, la música es una de mis actividades favoritas. Me motiva conocer y crear nuevas amistades y pasar tiempo con mis seres queridos.
-
-📌 ¿Por qué yo?
-Destaco por mi capacidad para ofrecer soluciones creativas y eficientes a los distintos desafíos que se presentan en el desarrollo Web. Soy alguien que está dispuesto a aceptar desafíos sin importar su dificultad. Soy responsable, resiliente, tenaz y altruista. Me encanta investigar y aprender todos los días. El trabajo en equipo me apasiona, como así también el hecho de conocer varios puntos de vista sobre un mismo problema.
+🙋‍♂️ ¿Quién soy?
+Soy un desarrollador web full stack apasionado por la tecnología y la música, con sólidos conocimientos en JavaScript, React, Vue, Nodejs, HTML, CSS, Express, MongoDB y otras tecnologías. Me destaco por mi capacidad para ofrecer soluciones creativas y eficientes a los distintos desafíos del desarrollo web. Soy responsable, resiliente, tenaz y altruista, y me encanta investigar y aprender todos los días. Estoy siempre dispuesto a aprender y enfrentar nuevos desafíos. 
 
 🚀 Experiencia
-Durante mi carrera, he adquirido sólidos conocimientos en JavaScript | Typescript | React | Vue | Redux | Pinia | Git | Nodejs | HTML | CSS | Express | Sequelize | Mongoose | Postgree SQL | MongoDB | Less | Tailwind. Gracias a estos conocimientos, he creado proyectos como Countries y RickAndMorty, dos aplicaciones que permiten buscar, filtrar, ordenar, entre otras funciones. Ambas aplicaciones cuentan con verificación en tiempo real y otros detalles que mejoran la experiencia del usuario. En el caso de la app Countries, se puede crear información relacionada a cada país.
+Estudiar Desarrollo Web Full Stack en Henry fue un cambio trascendental en mi vida. Esta experiencia me permitió integrarme al mundo IT y aprender tecnologías de manera autodidacta y en el menor tiempo posible gracias a su estructura y plan de estudio. He creado proyectos exitosos como Countries y RickAndMorty, dos aplicaciones que cuentan con verificación en tiempo real y otras funciones que mejoran la experiencia del usuario.
 
-Estudiar Desarrollo Web Full Stack en Henry fue un cambio trascendental en mi vida. Esta experiencia no solo me permitió integrarme al mundo IT, sino también aprender tecnologías de manera autodidacta y en el menor tiempo posible gracias a su estructura y plan de estudio, que saca lo mejor de cada estudiante.
+Me interesé por la tecnología a los 14 años y siempre he creído que nada es imposible si perseguimos nuestros sueños. Investigué cómo programar desde mi celular y descubrí mi pasión por el desarrollo web.
 
-Mi interés por la tecnología comenzó a los 14 años, cuando obtuve mi primer dispositivo móvil. Desde entonces, pasaba horas investigando sobre cómo programar desde un celular. Siempre sostuve que nada es imposible en la vida y que nosotros decidimos qué tan dispuestos estamos a concretar nuestras metas y sueños. Así fue como desarrollé mi primera página Web con HTML, CSS y JavaScript utilizando un emulador de Linux para dispositivos móviles conocido como Termux. Y, desde que adquirí mi primer computador, no he parado de aprender sobre programación.
-  
+ En resumen, soy un desarrollador full stack altamente capacitado y motivado para enfrentar nuevos desafíos en el desarrollo web.
+
   
 
 <br/>  
