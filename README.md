@@ -41,14 +41,6 @@ Mi interés por la tecnología comenzó a los 14 años, cuando obtuve mi primer 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
